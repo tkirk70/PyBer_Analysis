@@ -5,7 +5,7 @@ Overview of the analysis:
 
 Combine the ride share databases to investigate the differences between 'urban', 'suburban', and 'rural' ride data.
 
-Results: A line graph broken down into three categories: 'urban;, 'suburban', and 'rural'.  The results are displayed on a line graph which shows how each sector performed over a four-month period from January through April in 2019.  The data were filtered by total ride fares ($USD) on a weekly basis. 
+Results: A line graph broken down into three categories: 'urban, 'suburban', and 'rural'.  The results are displayed on a line graph which shows how each sector performed over a four-month period from January through April in 2019.  The data were filtered by total ride fares ($USD) on a weekly basis. 
 
 ![](analysis/PyBer_fare_summary.png)
 
