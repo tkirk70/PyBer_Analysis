@@ -1,33 +1,16 @@
 # PyBer_Analysis
 OSU Challenge 5 - Python and Matplotlib
 
+Overview of the analysis:
 
+Combine the ride share databases to investigate the differences between 'urban', 'suburban', and 'rural' ride data.
 
-
-Overview of the analysis: Explain the purpose of the new analysis.
-
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+Results: A line graph broken down into three categories: 'urban;, 'suburban', and 'rural'.  The results are displayed on a line graph which shows how each sector performed over a four-month period from January through April in 2019.  The data were filtered by total ride fares ($USD) on a weekly basis. 
 
 ![](analysis/PyBer_fare_summary.png)
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+Summary: 
+- The glaring weakness in the dataframe is that there are no data relating to distance of ride - whether one way or round trip.  Obviously trips eminating from a rural or suburban environment into the suburb/city would be longer and more costly for the rider than any rides staying withing the urban environment.  A further dive into the time/distance of each ride might bring light to this analysis.
+- Rural drivers are taking (on average) more of the 'ride load' than their suburban or urban counterparts - .624 v. .784 v .675.  This surely accounts for their increased share of the fares: $34.62 versus $30.97 for suburban and $24.53 for urban drivers.
+- The anomaly between difference in ride share for (drivers per ride) and cost should be contributed to price difference in different goegraphic sectors.
+- One reccomendation to reduc the cost of rides in the rural areas is to increase the amount of drivers thereby increasing competition.
