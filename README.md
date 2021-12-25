@@ -17,4 +17,4 @@ Summary:
 
 
 - The anomaly between difference in ride share for (drivers per ride) and cost should be contributed to price difference in different goegraphic sectors.
-- One reccomendation to reduc the cost of rides in the rural areas is to increase the amount of drivers thereby increasing competition.
+- One reccomendation to reduce the cost of rides in the rural areas is to increase the amount of drivers thereby increasing competition.
