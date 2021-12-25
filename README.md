@@ -11,7 +11,7 @@ Results: A line graph broken down into three categories: 'urban, 'suburban', and
 
 Summary: 
 - The glaring weakness in the dataframe is that there are no data relating to distance of ride - whether one way or round trip.  Obviously trips eminating from a rural or suburban environment into the suburb/city would be longer and more costly for the rider than any rides staying withing the urban environment.  A further dive into the time/distance of each ride might bring light to this analysis.
-- Rural drivers are taking (on average) more of the 'ride load' than their suburban or urban counterparts - .624 v. .784 v .675.  This surely accounts for their increased share of the fares: $34.62 versus $30.97 for suburban and $24.53 for urban drivers.  See below:
+- Rural drivers are taking (on average) more of the 'ride load' than their suburban or urban counterparts - .624 v .784 v .675.  This surely accounts for their increased share of the fares: $34.62 versus $30.97 for suburban and $24.53 for urban drivers.  See below:
 
 ![](analysis/Summary.PNG)
 
